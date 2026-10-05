@@ -3,10 +3,15 @@
 ## 📊 About Me
 
 📊 I’m an Analyst interested in using data to understand problems, uncover insights, and support better decisions.
+
 💡 I enjoy working on practical problems and turning ideas into useful, data-driven solutions.
+
 🤖 I’m exploring Artificial Intelligence and Machine Learning through hands-on projects and experimentation.
+
 🌱 I’m continuously developing my analytical, technical, and problem-solving skills.
+
 🔍 Interested in Data Analytics, AI/ML, and data-driven problem solving.
+
 🤝 Open to collaborating on meaningful data and AI-driven projects.
 
 ---
